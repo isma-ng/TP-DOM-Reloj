@@ -26,7 +26,7 @@
 - HTML5	Estructura base
 - Bootstrap	Diseño y componentes UI
 - JavaScript	Funcionalidad dinámica
-- localStorage	Almacenamiento persistente
+- CSS3	Estilos personalizados
 
 ## 🎨 Vista previa
 ``
